@@ -25,4 +25,7 @@ Les fichiers :
 
 - triangle.c -> ce programme c dessine un triangle isocèle d'une taille entrée par l'utilisateur.
 
-- somme_produit_moyenne.c -> ce programme c donne la somme, le produit et la moyenne d'entier en tré par l'utilisateur.
+- somme_produit_moyenne.c -> ce programme c donne la somme, le produit et la moyenne d'entier entré par l'utilisateur.
+
+------------------------------------------------------------------------------------------
+Fin
